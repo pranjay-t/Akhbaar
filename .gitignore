@@ -25,3 +25,54 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# Flutter/Dart specific
+.dart_tool/
+.packages
+.pub/
+build/
+
+# iOS/Android specific
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/.symlinks/
+ios/Runner.xcworkspace/
+ios/Flutter/flutter_export_environment.sh
+
+# Android specific
+.android/
+gradle/
+local.properties
+
+# Windows specific (for desktop apps)
+windows/
+
+# VSCode settings
+.vscode/
+
+macos/
+linux/
+web/
+
+# IntelliJ specific
+.idea/
+
+# MacOS specific
+.DS_Store
+
+# Temporary files
+*.log
+*.bak
+*.swp
+*.swo
+
+# Generated files
+*.apk
+*.ipa
+
+# Flutter generated metadata
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+ios
+windows
