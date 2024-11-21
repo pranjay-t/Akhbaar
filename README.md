@@ -1,16 +1,14 @@
-# akhbaar
+# Akhbaar  
 
-A new Flutter project.
+## Overview  
+Akhbaar is a modern news app built using Flutter that delivers daily updates on global, sports, and regional news. Users can search for specific news topics and read full articles within the app using a webview. Powered by **NewsAPI**, Akhbaar ensures a smooth and intuitive user experience.
 
-## Getting Started
+## Features  
+- **Daily News Updates**: Get the latest news across various categories such as world, sports, and regional topics.  
+- **Search Functionality**: Easily find articles on specific topics of interest.  
+- **In-App Webview**: Read complete articles without leaving the app.  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack  
+- **Flutter**: For building a cross-platform news app.  
+- **NewsAPI**: For fetching real-time news data.  
+- **Webview**: To enable reading full articles within the app.  
